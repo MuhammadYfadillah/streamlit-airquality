@@ -2,7 +2,7 @@
 ```
 conda create --name main-ds python=3.12.6
 conda activate main-ds
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## Setup Environment - Shell/Terminal
@@ -12,7 +12,7 @@ cd lastproject
 pipenv install
 pipenv shell
 pip freeze requirements.txt
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## Run steamlit app
