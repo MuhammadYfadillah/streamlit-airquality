@@ -11,8 +11,8 @@ mkdir lastproject
 cd lastproject
 pipenv install
 pipenv shell
-pip freeze requirement.txt
-pip install -r requirement.txt
+pip freeze requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run steamlit app
