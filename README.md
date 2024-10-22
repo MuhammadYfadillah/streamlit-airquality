@@ -11,7 +11,7 @@ mkdir lastproject
 cd lastproject
 pipenv install
 pipenv shell
-pip freeze requirements.txt
+pip freeze requirement.txt
 pip install -r requirement.txt
 ```
 
